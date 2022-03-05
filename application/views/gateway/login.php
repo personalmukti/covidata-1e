@@ -9,5 +9,6 @@
 <body>
 	halaman uji coba bentrok.
 	<p>Ini halaman yang ingin kita coba bentrokan dengan yang ada di master.</p>
+	<p>Ini halaman login yang ada di master.</p>
 </body>
 </html>
