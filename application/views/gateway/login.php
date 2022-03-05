@@ -8,5 +8,6 @@
 </head>
 <body>
 	halaman uji coba bentrok.
+	<p>Ini halaman yang ingin kita coba bentrokan dengan yang ada di master.</p>
 </body>
 </html>
